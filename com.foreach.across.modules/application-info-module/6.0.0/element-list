@@ -1,0 +1,4 @@
+com.foreach.across.modules.applicationinfo
+com.foreach.across.modules.applicationinfo.business
+com.foreach.across.modules.applicationinfo.controllers
+com.foreach.across.modules.applicationinfo.controllers.rest

@@ -1,0 +1,13 @@
+com.foreach.across.modules.spring.security
+com.foreach.across.modules.spring.security.actions
+com.foreach.across.modules.spring.security.annotations
+com.foreach.across.modules.spring.security.authority
+com.foreach.across.modules.spring.security.configuration
+com.foreach.across.modules.spring.security.extensions
+com.foreach.across.modules.spring.security.filters
+com.foreach.across.modules.spring.security.infrastructure
+com.foreach.across.modules.spring.security.infrastructure.aop
+com.foreach.across.modules.spring.security.infrastructure.business
+com.foreach.across.modules.spring.security.infrastructure.config
+com.foreach.across.modules.spring.security.infrastructure.events
+com.foreach.across.modules.spring.security.infrastructure.services

@@ -1,0 +1,9 @@
+com.foreach.across.modules.properties
+com.foreach.across.modules.properties.business
+com.foreach.across.modules.properties.config
+com.foreach.across.modules.properties.config.modules
+com.foreach.across.modules.properties.controllers
+com.foreach.across.modules.properties.installers
+com.foreach.across.modules.properties.registries
+com.foreach.across.modules.properties.repositories
+com.foreach.across.modules.properties.services

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.foreach.across.modules.applicationinfo"},{"l":"com.foreach.across.modules.applicationinfo.business"},{"l":"com.foreach.across.modules.applicationinfo.controllers"},{"l":"com.foreach.across.modules.applicationinfo.controllers.rest"}];updateSearchResults();

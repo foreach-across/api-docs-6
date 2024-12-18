@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.foreach.across.modules.ehcache.extensions","l":"EhcacheEnableCaching"},{"p":"com.foreach.across.modules.ehcache","l":"EhcacheModule"},{"p":"com.foreach.across.modules.ehcache","l":"EhcacheModuleSettings"}];updateSearchResults();
