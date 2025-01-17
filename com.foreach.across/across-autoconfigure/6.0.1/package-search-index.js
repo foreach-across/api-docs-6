@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.foreach.across.autoconfigure"},{"l":"com.foreach.across.autoconfigure.hateoas"},{"l":"com.foreach.across.autoconfigure.rabbitmq"},{"l":"com.foreach.across.autoconfigure.support"}];updateSearchResults();

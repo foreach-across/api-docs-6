@@ -1,0 +1,15 @@
+com.foreach.across.modules.user
+com.foreach.across.modules.user.business
+com.foreach.across.modules.user.config
+com.foreach.across.modules.user.config.modules
+com.foreach.across.modules.user.controllers
+com.foreach.across.modules.user.converters
+com.foreach.across.modules.user.extensions
+com.foreach.across.modules.user.installers
+com.foreach.across.modules.user.repositories
+com.foreach.across.modules.user.security
+com.foreach.across.modules.user.services
+com.foreach.across.modules.user.services.support
+com.foreach.across.modules.user.ui
+com.foreach.across.modules.user.ui.support
+com.foreach.across.modules.user.validators

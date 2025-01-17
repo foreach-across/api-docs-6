@@ -1,0 +1,8 @@
+com.foreach.across.modules.logging
+com.foreach.across.modules.logging.config
+com.foreach.across.modules.logging.config.dynamic
+com.foreach.across.modules.logging.controllers
+com.foreach.across.modules.logging.exception
+com.foreach.across.modules.logging.method
+com.foreach.across.modules.logging.request
+com.foreach.across.modules.logging.requestresponse

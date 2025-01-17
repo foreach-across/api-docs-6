@@ -1,0 +1,11 @@
+com.foreach.across.modules.adminweb
+com.foreach.across.modules.adminweb.annotations
+com.foreach.across.modules.adminweb.config
+com.foreach.across.modules.adminweb.config.support
+com.foreach.across.modules.adminweb.controllers
+com.foreach.across.modules.adminweb.events
+com.foreach.across.modules.adminweb.extensions
+com.foreach.across.modules.adminweb.menu
+com.foreach.across.modules.adminweb.menu.registrars
+com.foreach.across.modules.adminweb.resource
+com.foreach.across.modules.adminweb.ui

@@ -1,0 +1,13 @@
+com.foreach.across.modules.ldap
+com.foreach.across.modules.ldap.business
+com.foreach.across.modules.ldap.config
+com.foreach.across.modules.ldap.controllers
+com.foreach.across.modules.ldap.events
+com.foreach.across.modules.ldap.extensions
+com.foreach.across.modules.ldap.infrastructure.aop
+com.foreach.across.modules.ldap.installers
+com.foreach.across.modules.ldap.repositories
+com.foreach.across.modules.ldap.services
+com.foreach.across.modules.ldap.services.properties
+com.foreach.across.modules.ldap.services.support
+com.foreach.across.modules.ldap.tasks

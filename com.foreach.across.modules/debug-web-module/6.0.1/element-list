@@ -1,0 +1,10 @@
+com.foreach.across.modules.debugweb
+com.foreach.across.modules.debugweb.config
+com.foreach.across.modules.debugweb.config.support
+com.foreach.across.modules.debugweb.controllers
+com.foreach.across.modules.debugweb.controllers.cache
+com.foreach.across.modules.debugweb.events
+com.foreach.across.modules.debugweb.extensions
+com.foreach.across.modules.debugweb.mvc
+com.foreach.across.modules.debugweb.support
+com.foreach.across.modules.debugweb.util

@@ -1,0 +1,4 @@
+com.foreach.across.autoconfigure
+com.foreach.across.autoconfigure.hateoas
+com.foreach.across.autoconfigure.rabbitmq
+com.foreach.across.autoconfigure.support
